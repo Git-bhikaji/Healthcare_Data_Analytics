@@ -1,4 +1,4 @@
-🏥 Healthcare Data Analysis Using Python
+🏥 Healthcare Data Analysis
 
 📊 Project Domain: Healthcare Analytics | Data Analysis | Business Intelligence
 🐍 Language: Python
